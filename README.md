@@ -1,4 +1,4 @@
-\# Day 3: AI Chatbot with Personality + Chat History Save 🎭
+\# Day 3: AI Chatbot with Personality + Chat History Save 
 
 
 
