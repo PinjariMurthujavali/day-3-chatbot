@@ -55,3 +55,17 @@ python chatbot.py
 Just start chatting naturally with the AI. Type `exit` whenever you're done — the entire conversation is automatically saved to a timestamped file, ready to review anytime.
 
 ## 📸 Example
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/murthujavali-pinjari18/
+- 🐙 GitHub: [@PinjariMurthujavali](https://github.com/PinjariMurthujavali)
+- 📂 Full 90-Day Challenge: [ai-90-day-challenge](https://github.com/PinjariMurthujavali/ai-90-day-challenge)
+
+---
+
+### ⭐ If you found this useful, drop a star on the repo!
+
+`#100DaysOfCode` `#AI` `#Python` `#Automation` `#BuildInPublic`
